@@ -12,6 +12,8 @@
 
 ### *Lists*
 
+To mark unnumerated lists use (*)
+
 ### *Working with images*
 
 To insert image between text write:
