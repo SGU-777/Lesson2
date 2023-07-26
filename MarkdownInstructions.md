@@ -1,7 +1,12 @@
 # Instructions to work with markdown
 
-#### to use italic font insert needed text between stars
-#### to use bold font insert needed text between double **stars**
+#### to use italic font insert needed text between stars or underline
+(*) or (_)
+
+#### to use bold font insert needed text between double **stars** or double underline
+(**) or (__)
+
+#### Example: _**Mixed marking can be used**_
 
 ### *Marked Text*
 
