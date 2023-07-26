@@ -14,6 +14,9 @@
 
 ### *Working with images*
 
+To insert image between text write:
+![Hi, this are my fish](Fish.jpeg)
+
 ### *Links*
 
 ### *Working with tables*
