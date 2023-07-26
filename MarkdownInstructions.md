@@ -1,16 +1,18 @@
-# instructions to work with markdown
+# Instructions to work with markdown
 
-## Marked Text
+#### to use italic font insert needed text between stars
+#### to use bold font insert needed text between double **stars**
 
-## Lists
+### *Marked Text*
 
-## Working with images
+### *Lists*
 
-## Links
+### *Working with images*
 
-## Working with tables
+### *Links*
 
-## Quotes
+### *Working with tables*
 
-## Summary
+### *Quotes*
 
+### *Summary*
